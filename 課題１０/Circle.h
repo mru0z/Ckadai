@@ -7,5 +7,5 @@ class Circle
 	//ƒƒ“ƒoŠÖ”
 public:
 	Circle();
-
+	float Menseki(float a);
 };
